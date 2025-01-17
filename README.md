@@ -34,6 +34,13 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+<img width="1461" alt="Screenshot 2025-01-17 at 16 40 10" src="https://github.com/user-attachments/assets/ffb99414-1a33-45ae-a8ad-958b2b2a7c95" />
+
+<img width="1453" alt="Screenshot 2025-01-17 at 16 40 29" src="https://github.com/user-attachments/assets/ca2e3e6c-8813-4852-a32b-674ec524c588" />
+
+<img width="1466" alt="Screenshot 2025-01-17 at 16 39 08" src="https://github.com/user-attachments/assets/607f9001-27f9-4fd6-bc64-e4fcefcb546a" />
+
+
 ---
 
 For any issues or feature requests, please open an issue in the repository.
