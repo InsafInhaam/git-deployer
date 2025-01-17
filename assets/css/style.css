@@ -63,4 +63,143 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    display:inline-block; 
+}
+
+/* Main Container */
+.theme-details-container {
+    max-width: 800px;
+    /* margin: 30px 0; */
+    padding: 20px;
+    /* background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+}
+
+.theme-details-heading {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* GitHub Link */
+.github-link {
+    margin-bottom: 20px;
+}
+
+.github-link i {
+    color: #333;
+    margin-right: 8px;
+}
+
+.github-link a {
+    font-size: 1.2rem;
+    color: #0073e6;
+    text-decoration: none;
+}
+
+.github-link a:hover {
+    text-decoration: underline;
+}
+
+/* Form Containers */
+.form-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.form-container h2 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+}
+
+.form-label {
+    font-size: 1rem;
+    margin-bottom: 8px;
+    display: block;
+}
+
+.form-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 15px;
+}
+
+.form-checkbox {
+    margin-right: 10px;
+}
+
+.btn {
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+}
+
+.btn i {
+    margin-right: 8px;
+}
+
+/* Button Styles */
+.btn-danger {
+    background-color: #e74c3c;
+    color: white;
+}
+
+.btn-danger:hover {
+    background-color: #c0392b;
+}
+
+.btn-primary {
+    background-color: #3498db;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #2980b9;
+}
+
+.btn-success {
+    background-color: #2ecc71;
+    color: white;
+}
+
+.btn-success:hover {
+    background-color: #27ae60;
+}
+
+/* Pull History */
+.pull-history {
+    margin-top: 30px;
+}
+
+.history-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.history-list li {
+    font-size: 1rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.history-list i {
+    color: #7f8c8d;
+    margin-right: 10px;
+}
+
+/* Error Message */
+.error-message {
+    color: red;
+    font-size: 1.2rem;
+    font-weight: bold;
 }
